@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2013/06/28 08:56:44.041.pas,C:\Users\ardypro\Documents\RAD Studio\Projects\Unit1.pas=E:\repo\git\OnGithub\IRControl\ircontrol\tools\rawcodesconv\uMain.pas</Transaction>
+    <Transaction>2013/06/28 08:56:44.041.dfm,C:\Users\ardypro\Documents\RAD Studio\Projects\Unit1.dfm=E:\repo\git\OnGithub\IRControl\ircontrol\tools\rawcodesconv\uMain.dfm</Transaction>
+    <Transaction>2013/06/28 08:56:50.674.dproj,C:\Users\ardypro\Documents\RAD Studio\Projects\Project1.dproj=E:\repo\git\OnGithub\IRControl\ircontrol\tools\rawcodesconv\irRaw.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
